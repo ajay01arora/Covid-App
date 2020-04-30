@@ -1,0 +1,1 @@
+{"version":3,"file":"INews.js","sourceRoot":"","sources":["../../../../../src/app/interfaces/INews.ts"],"names":[],"mappings":"AAUA,MAAM,OAAO,IAAI;IAEb,YAAa,SAAiB,EAAE,WAAoB,EAAE,UAAmB,EAAE,SAAS;QAEhF,IAAI,CAAC,SAAS,GAAG,SAAS;YAC1B,IAAI,CAAC,WAAW,GAAG,WAAW;YAC9B,IAAI,CAAC,UAAU,GAAG,UAAU;YAC5B,IAAI,CAAC,SAAS,GAAG,SAAS,CAAA;IAC9B,CAAC;CAOJ"}
